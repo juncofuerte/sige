@@ -1,0 +1,3 @@
+1) cuando pasa un largo rato, el usuario se desconecta y queda la pantalla sin autenticar
+2) https    cómo ?
+

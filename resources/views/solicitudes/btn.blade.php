@@ -1,0 +1,4 @@
+<a href="{{route('solicitudes.ver', $id)}}"><button type="button" class="btn btn-primary btn-personal"><i class="far fa-eye"></i></button></a>
+<a href="{{route('solicitudes.editar', $id)}}"><button type="button" class="btn btn-success btn-personal"><i class="fas fa-pencil-alt"></i></button></a>                                                       
+<a href="{{route('solicitudes.anular', $id)}}"><button type="button" class="btn btn-info btn-personal"><i class="fas fa-ban"></i></button></a>
+<a href="{{route('solicitudes.eliminar', $id)}}"><button type="button" class="btn btn-danger btn-personal"><i class="fas fa-trash-alt"></i></button></a>
